@@ -1,4 +1,2 @@
-# Learn Clean Architecture - Python Edition
-
-
+# Page 1
 
