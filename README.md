@@ -4,7 +4,7 @@ description: >-
   definita da R.C. Martin.
 ---
 
-# Introduzione
+# Learn Clean Architecture - Python Edition
 
 In questo documento voglio imparare a rendere la Clean Architecture uno strumento a me familiare, voglio arrivare alla fine di questo "libro" ad avere appreso a pieno i principi alla base della buona programmazione.
 
