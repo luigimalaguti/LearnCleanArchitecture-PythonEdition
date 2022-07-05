@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduzione](README.md)
+* [Learn Clean Architecture - Python Edition](README.md)
 
 ## 1. Clean Architecture
 
